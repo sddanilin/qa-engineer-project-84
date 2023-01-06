@@ -1,0 +1,11 @@
+name: Sergey Danilin
+job: QA Engineer
+level: junior
+email: sddanilin@hexlet.io
+description: |
+  -
+skills: # список навыков в виде списка, напишите что-то свое
+  - функциональное тестирование
+  - написание багрепортов
+  - слепая печать
+  - английский язык C1
