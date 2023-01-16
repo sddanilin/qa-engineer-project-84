@@ -21,7 +21,6 @@ bugreports:
       Проверка просмотра страниц магазина.
     status: fail
 
-bugreports:
   - summary: |
       Нет кнопок для возможности простомтра страниц магазина.
     environment: |
