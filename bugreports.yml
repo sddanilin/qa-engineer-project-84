@@ -17,7 +17,7 @@
   environment: |
     Яндекс Браузер 22.11.5.715 (64-bit)
     ОС Windows 10 21H2
- steps-to-reproduce: |
+  steps-to-reproduce: |
     1. На главной странице в правом верхнем углу нажать Language.
     2. В выпадающем меню выбрать Russian.
   expected-result: |
